@@ -56,5 +56,5 @@ A estrutura do projeto é organizada nos seguintes pacotes:
 8. Acesse o sistema através do terminal e interaja com as funcionalidades.
 
 ## Captura de tela com aplicação funcionando:
-
+https://github.com/Lumabarbosa/challenge_literalura/blob/main/Screen%20recording%201%20(online-video-cutter.com).mp4
 
